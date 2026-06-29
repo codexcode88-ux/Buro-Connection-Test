@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-2.0.0-purple.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-Win%20%7C%20macOS%20%7C%20Linux-orange.svg)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/your-username/buro/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/codexcode88-ux/Buro-Connection-Test)
 
 <br>
 
@@ -41,7 +41,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/buro.git
+git clone https://github.com/codexcode88-ux/Buro-Connection-Test.git
 cd buro
 
 # Install dependencies
